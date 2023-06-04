@@ -16,6 +16,8 @@ In a file called `playback.py`, implement a program in Python that prompts the u
 
 # Demo
 
+[![asciicast](https://asciinema.org/a/UmJeo6gLJxqDh0uW0gJaTG9JE.svg)](https://asciinema.org/a/UmJeo6gLJxqDh0uW0gJaTG9JE)
+
 # Before You Begin
  You should find that your terminal window’s prompt resembles the below:
 
